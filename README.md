@@ -12,9 +12,7 @@ If you plan to refer to this work, please cite:
   year      = {2018},
   pages     = {272-277},
   publisher = {Institute of Electrical and Electronics Engineers},
-  doi={10.1109/SNAMS.2018.8554853}, 
-  website = {https://github.com/AIPHES/annotation-importance}
+  doi       = {10.1109/SNAMS.2018.8554853}, 
+  website   = {https://github.com/AIPHES/annotation-importance}
 }
 ```
-
-
